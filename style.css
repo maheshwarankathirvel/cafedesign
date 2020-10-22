@@ -1,4 +1,4 @@
-@media(min-width:450px){
+
 body{
     background-image: url("https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table.jpg");
     height: 550px;
@@ -52,5 +52,4 @@ a{
 }
 .order,.details{
     font-family: 'Balsamiq Sans', cursive;
-}
 }
